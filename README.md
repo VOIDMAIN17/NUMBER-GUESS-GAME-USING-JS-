@@ -9,7 +9,8 @@
 
 <!-- Hero image (replace `assets/hero.png` with your own) -->
 
-![Hero preview](assets/hero.png)
+
+![Hero preview](<img width="1619" height="868" alt="Screenshot 2025-08-26 160455" src="https://github.com/user-attachments/assets/108887be-28ab-4178-97ea-34988a3de301" />)
 
 ## 🎯 About
 
