@@ -139,17 +139,3 @@ Helper animation classes (toggle from JS):
 Thank you for checking out this project — I built it to teach others how DOM manipulation works and to practice front-end basics.
 
 ---
-
-## 📄 License
-
-This project is open source — feel free to reuse and learn from it. Add a license file if you want (e.g., MIT).
-
----
-
-If you'd like, I can:
-
-* Create a polished GitHub README with real badges.
-* Export a few example screenshots you can drop into `/assets`.
-* Inject the `voidMain` / `initGame` starter template into your existing `script.js` (paste-ready).
-
-Tell me which of the three you want next and I’ll generate it.
